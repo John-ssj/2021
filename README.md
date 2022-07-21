@@ -126,7 +126,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Sai Ranga Reddy](https://github.com/irangareddy)|[GitHub](https://github.com/irangareddy/Carbon-Footprint)|[YouTube](https://youtu.be/4uh_Aet8dMM)|SwiftUI, AVKit, SceneKit|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/WWDC2021)||ARKit, SceneKit, AVFoundation, SwiftUI|Accepted|
 |[Seunghun Yang](https://github.com/Yabby1997)|[GitHub](https://github.com/Yabby1997/WWDC21-Swift-Student-Challenge)|[YouTube](https://youtu.be/HVTCB2lDpjg)|SpriteKit, AVFoundation|Accepted|
-|[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Submitted|
+|[Shengjiu Shi](https://github.com/John-ssj)|[GitHub](https://github.com/John-ssj/WWDC2021)||UIKit, SpriteKit|Accepted|
 |[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)||[YouTube](https://youtu.be/dY1R0TIHwjY)|SwiftUI, ARKit, SceneKit, CoreMotion|Accepted|
 |[Stephen Fang](https://github.com/iamStephenFang)|[GitHub](https://github.com/iamStephenFang/KnowledgeGraph)||SwiftUI, AVKit|Accepted|
 |[Stvya Sharma](http://stvya.com)|[GitHub](https://github.com/StvyaSharma/Mini_Games)||UIKit, SpriteKit, AVFoundation, SwiftUI|Accepted|
